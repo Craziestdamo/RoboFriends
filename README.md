@@ -1,10 +1,8 @@
-# 🤖 RoboFriends
+RoboFriends
 
 Welcome to **RoboFriends** – a slick little React app that fetches robot profiles from an API and lets you search through them like a cyberpunk hacker 😎🧠
 
 ---
-
-## 🚀 Live Demo
 
 🔗 [Click here to check it out](https://craziestdamo.github.io/RoboFriends) *(if hosted)*
 
@@ -12,19 +10,19 @@ Welcome to **RoboFriends** – a slick little React app that fetches robot profi
 
 ## 🛠️ Built With
 
-- ⚛️ React.js
-- 🌐 JavaScript (ES6+)
-- 💅 CSS
-- 🧰 [RoboHash API](https://robohash.org) (for random robot avatars)
+-  React.js
+-  JavaScript (ES6+)
+-  CSS
+-  [RoboHash API](https://robohash.org) (for random robot avatars)
 
 ---
 
-## 📸 Features
+##  Features
 
-- 🔍 Live search functionality
-- 👾 Auto-generated robot cards
-- 📱 Responsive layout
-- ⚡ Fast and lightweight
+-  Live search functionality
+-  Auto-generated robot cards
+-  Responsive layout
+-  Fast and lightweight
 
 ---
 

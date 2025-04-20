@@ -1,6 +1,6 @@
 {
-  "name": "RoboFriends",
-  "homepage": "https://craziestdamo.github.io/RoboFriends",
+  "name": "robofriends",
+  "homepage": "https://craziestdamo.github.io/robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

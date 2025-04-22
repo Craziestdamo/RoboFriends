@@ -31,4 +31,4 @@ cd RoboFriends
 
 
 # robofriends
-Tutorial for React visist https://zerotomastery.io/ for more RoboFriends
+Tutorial for React visit https://zerotomastery.io/ for more RoboFriends

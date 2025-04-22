@@ -4,7 +4,7 @@ Welcome to **RoboFriends** – a slick little React app that fetches robot profi
 
 ---
 
-🔗 [Click here to check it out](craziestdamo.github.io/robofriends/) *(if hosted)*
+🔗 [Click here to check it out](https://craziestdamo.github.io/robofriends/) *(if hosted)*
 
 ---
 
